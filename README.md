@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **python, Tkinter**
 
-- 📫 How to reach me **samanchghasemi87@gmail.com**
+
 
 - ⚡ Fun fact **I Think I'm Funny**
 
