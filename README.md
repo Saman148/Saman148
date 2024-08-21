@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saman148&label=Profile%20views&color=0e75b6&style=flat" alt="saman148" /> </p>
 
-- 🔭 I’m currently working on **school website**
+- 🔭 I’m currently working on **website for school **
 
-- 🌱 I’m currently learning **C , Django , Nodejs**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saman148](https://github.com/Saman148)
 
