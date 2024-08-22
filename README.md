@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saman</h1>
-<h3 align="center">A passionate python and Django developer from Iran</h3>
+<h3 align="center">A passionate python developer from Iran</h3>
 <img align="right" alt="saman" width = "400" src ="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
 
