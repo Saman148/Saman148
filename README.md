@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **website for school**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saman148](https://github.com/Saman148)
 
-- 💬 Ask me about **python, Tkinter**
+- 💬 Ask me about **python**
 
 
 
