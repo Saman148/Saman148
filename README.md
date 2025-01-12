@@ -1,7 +1,7 @@
 <pre>
-┌──┤ ECHO $HOME ├─────────▰▰▰
+┌──┤ ECHO $ABOUT ├─────────▰▰▰
 │
-├─▣ /home/saman
+├─▣ /about/saman
 ├─▣ Student at Ahara
 ├─▣ 16 years old
 ├─▣ Iran
