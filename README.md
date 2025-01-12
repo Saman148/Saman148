@@ -31,7 +31,7 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=saman148&hide_border=true&show_icons=true&count_private=true&theme=midnight-purple&bg_color=151515">
 <br>
-<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=saman148&theme=midnight"/>
+<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=saman148&theme=nightowl"/>
 <br>
   
 </p>
