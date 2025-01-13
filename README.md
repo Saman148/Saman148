@@ -21,9 +21,12 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ├─────────▰▰▰
+┌──┤ Skills $ Languages ├─────────▰▰▰
 │
-├─◈ 
+├─◈ Git   -   Python
+├─◈ Docker  -  JavaScript
+├─◈ Message Broker  -  HTML & CSS  
+├─◈ Django
 │
 └───────────────────────────────▰▰▰
 
