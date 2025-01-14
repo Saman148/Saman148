@@ -21,7 +21,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ grep Skills $ Languages ├─────────▰▰▰
+┌──┤ grep Skills & Languages ├─────────▰▰▰
 │
 ├─◈ Git   -   Python
 ├─◈ Docker  -  JavaScript
