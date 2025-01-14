@@ -42,4 +42,4 @@
 <h6>invaders must die</h6>
 </pre>
 ---
-I use arch btw
+I use windows10 btw
