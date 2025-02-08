@@ -2,7 +2,7 @@
 ┌──┤ ECHO $ABOUT ├─────────▰▰▰
 │
 ├─▣ /about/saman
-├─▣ Student at Ahara
+├─▣ Student at Ahrar
 ├─▣ 16 years old
 ├─▣ Iran
 ├─▣ 
