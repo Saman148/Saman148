@@ -12,7 +12,7 @@
 ┌──┤ https://websites ├─────────▰▰▰
 │
 ├─◈ <a href="" target="_blank">My Personal WebSite</a>
-├─◈ ─◈ <a href="" target="_blank">Ahrar High School</a>
+├─◈ <a href="" target="_blank">Ahrar High School</a>
 │
 └───────────────────────────────▰▰▰
 
