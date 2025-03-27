@@ -4,8 +4,8 @@
 ├─▣ /about/saman
 ├─▣ Student at Ahrar
 ├─▣ 17 years old
-├─▣ Iran
-├─▣ 
+├─▣ IR
+├─▣ Backend and Ml developer 
 │
 └───────────────────────────────▰▰▰
 
