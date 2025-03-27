@@ -19,14 +19,17 @@
 ┌──┤ ./projects.sh ├─────────▰▰▰
 │
 ├─◈ <a href="" target="_blank">Saman Helper - help you to do your job faster</a>
+├─◈ <a href="" target="_blank">Hack Tool - gui hack tool to do your job faster</a>
+├─◈ <a href="" target="_blank">USB Zip extractor - extract all zip file on your USB</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ grep Skills & Languages ├─────────▰▰▰
 │
-├─◈ Git   -   Python
-├─◈ Docker  -  JavaScript
-├─◈ Message Broker  -  HTML & CSS  
+├─◈ Git 
+├─◈ Python
+├─◈ JavaScript
+├─◈ HTML & CSS  
 ├─◈ Django
 │
 └───────────────────────────────▰▰▰
