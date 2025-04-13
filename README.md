@@ -5,7 +5,7 @@
 ├─▣ Student at Ahrar
 ├─▣ 17 years old
 ├─▣ IR
-├─▣ Backend and Ml developer 
+├─▣ Backend 
 │
 └───────────────────────────────▰▰▰
 
@@ -13,6 +13,7 @@
 │
 ├─◈ <a href="" target="_blank">My Personal WebSite</a>
 ├─◈ <a href="" target="_blank">Ahrar High School</a>
+├─◈ <a href="" target="_blank">Classical Music</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -34,14 +35,7 @@
 │
 └───────────────────────────────▰▰▰
 
-<h2>[Saman ~]$ dgit stats</h2>
-<p align="center">
 
-<br>
-<img title="" src="https://github-readme-activity-graph.vercel.app/graph?username=saman148&theme=nightowl"/>
-<br>
-  
-</p>
 
 <h6>invaders must die</h6>
 </pre>
